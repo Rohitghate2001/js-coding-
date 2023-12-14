@@ -1,0 +1,12 @@
+
+nav{
+    display: flex;
+    background-color:gold;
+}
+nav li{
+    list-style:none;
+    padding: 0 50px;
+    padding-right: 50px;
+    background-size:auto;
+
+}

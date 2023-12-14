@@ -1,0 +1,10 @@
+.navbar{
+    background-color:blueviolet;
+}
+
+nav{
+   display: flex;
+    padding: 20px;
+    padding-right: 50px;
+    
+}
