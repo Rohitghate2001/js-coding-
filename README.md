@@ -1,2 +1,2 @@
 # js-coding-
-practice coding in javascript 
+these are just practice programes i have done while learning js  
