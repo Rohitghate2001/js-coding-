@@ -1,4 +1,4 @@
-let arr=[5,3,6,8,3,2,4]
+let arr=[5,3,6,8,3,2,4,5]
 var len=arr.length
 var even=0
 var odd=0
